@@ -95,7 +95,7 @@ This project helped me practice:
 
 ## Circuit
 
-(https://1drv.ms/v/c/210e17635efde1f9/IQBdC2k9pN6iQ6YNUvHosUQZAfOHFwO1k0zHWvn71VleBRE?e=YF7oKS)
+[view actual circuit](https://1drv.ms/v/c/210e17635efde1f9/IQBdC2k9pN6iQ6YNUvHosUQZAfOHFwO1k0zHWvn71VleBRE?e=YF7oKS)
 ## Author
 
 **Lujain Ayman**
