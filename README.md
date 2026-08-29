@@ -76,8 +76,7 @@ Where:
 Sequential-Counter/
 ├── README.md
 ├── sequential_counter.circ
-├── circuit.png
-└── documentation.pdf
+└── Sequential-Counter_steps.pdf
 ```
 
 ## Learning Outcomes
