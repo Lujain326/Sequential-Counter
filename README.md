@@ -95,6 +95,8 @@ This project helped me practice:
 ## Circuit
 
 [view actual circuit](https://1drv.ms/v/c/210e17635efde1f9/IQBdC2k9pN6iQ6YNUvHosUQZAfOHFwO1k0zHWvn71VleBRE?e=YF7oKS)
+
+ [Logisim Circuit](https://1drv.ms/i/c/210e17635efde1f9/IQC-zi8obMG9TacXltFL9SyHARXQ2SynrW0ILDIakvz1f_8?e=1d3czj)
 ## Author
 
 **Lujain Ayman**
